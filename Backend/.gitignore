@@ -1,0 +1,5 @@
+.env
+env
+db.sqlite3
+microsoft_auth_main/__pycache__
+microsoft_auth_app/__pycache__
